@@ -2,6 +2,8 @@
 
 a lightweight HUD to display recasts/tool counts for ninjutsu. designed for people who play ninja the right way.
 
+![the hud](ninhud.jpg)
+
 ### Usage
 Enable this by loading the addon (e.g., in your NIN lua's `OnLoad`), disable it by unloading the addon (e.g., in `OnUnload`). 
 
